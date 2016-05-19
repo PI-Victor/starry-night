@@ -1,0 +1,11 @@
+baseurl = "http://pi-victor.github.io/starry-night/"
+archetypedir = "archetype"
+contentdir = "content"
+layoutdir = "layouts"
+languageCode = "en-us"
+title = "Starry Night"
+canonifyurls = true
+author = "PI-Victor"
+theme = "aglaus"
+copyright = "Copyright (c) 2016, Victor Palade; all rights reserved."
+paginate = 5
